@@ -3,7 +3,5 @@
 S.A.Sh - Simple Advanced Shell
 sash for TinT OS
 
-+-----------------+                                                                                                                                                      
- |>        help               
-+-----------------+
+> help
 

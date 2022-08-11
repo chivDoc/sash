@@ -2,7 +2,7 @@
 # sash
 S.A.Sh - Simple Advanced Shell TinT OS
 
-...soon...
+!!!!!!SOON...
 
 >\> help
 
